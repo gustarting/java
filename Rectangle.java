@@ -1,3 +1,4 @@
+//https://testautomationu.applitools.com/java-programming-course/chapter6a.html
 public class Rectangle {
 
     private double length;
