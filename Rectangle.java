@@ -1,6 +1,6 @@
 //https://testautomationu.applitools.com/java-programming-course/chapter6a.html
 public class Rectangle {
-
+//falta el main
     private double length;
     private double width;
 
